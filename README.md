@@ -5,3 +5,4 @@
 - Angular is an open-source JavaScript framework most suited to develop this application.
 
 [Link to Request for proposal](https://github.com/harshakurra123/ClassRemainder)
+[Link to PROPOSAL.md](https://github.com/vyshnavi1996/proposal/blob/main/PROPOSAL.md)
