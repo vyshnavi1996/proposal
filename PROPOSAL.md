@@ -42,7 +42,13 @@
  - Deployment of the application, and prod fixes.
 
 
-- Budget is set by the size of the development team * average expected hours per developer per week
+## Budget is set by the size of the development team * average expected hours per developer per week
+
+| Team Member                    | Cost per hour | hours per week   | 
+| -------------------------------| ------------- | -------------    | 
+| TejaswiReddy Nallavolu         | 25$           | 9 - 12hrs        |
+| Vyshnavi Tadipaneni            | 25$           | 9 - 12hrs        |
+
 - Scope of work should be clearly divided into sprint buckets of time
 
 ## Backend language + framework (C#/.NET)
