@@ -1,6 +1,7 @@
 # Proposal For the Class Remainder
 
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
+## Scope of work should be clearly divided into sprint buckets of time
 
 ### GDP-1 
 
@@ -49,7 +50,6 @@
 | TejaswiReddy Nallavolu         | 25$           | 9 - 12hrs        |
 | Vyshnavi Tadipaneni            | 25$           | 9 - 12hrs        |
 
-- Scope of work should be clearly divided into sprint buckets of time
 
 ## Backend language + framework (C#/.NET)
 
