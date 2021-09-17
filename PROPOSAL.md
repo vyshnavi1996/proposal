@@ -51,13 +51,13 @@
 | Vyshnavi Tadipaneni            | 25$           | 9 - 12hrs        |
 
 
-## Backend language + framework (C#/.NET)
+### Backend language + framework (C#/.NET)
 
-## Backend free app host (Heroku)
+### Backend free app host (Heroku)
 
-## Data host (Atlas MongoDB and SQL)
+### Data host (Atlas MongoDB and SQL)
 
-## Front-end page plan (Angular)
+### Front-end page plan (Angular)
 
-## Front-end responsive design (Bootstrap)
+### Front-end responsive design (Bootstrap)
 
